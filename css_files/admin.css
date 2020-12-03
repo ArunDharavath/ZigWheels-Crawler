@@ -1,0 +1,39 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+.disp_table
+{ 
+  margin: 0 auto; 
+  font-size: large; 
+  border: 1px solid black; 
+}
+
+.disp_td
+{ 
+  background-color: #96f3ee; 
+  border: 1px solid black; 
+} 
+
+.disp_th, .disp_td
+{ 
+   
+  border: 1px solid black; 
+  padding: 10px; 
+  text-align: center; 
+} 
+
+.logout {
+  position: absolute;
+  top: 20px;
+  right: 16px;
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.nav-link{
+  font-size: 20px;
+}
+.main {
+  background-color: lightgoldenrodyellow;
+}
